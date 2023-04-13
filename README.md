@@ -1,14 +1,7 @@
 # Revolutionizing Airbnb in Cape Town with a Cutting-Edge Recommender System
 
-## Collaborators:
+![image](https://user-images.githubusercontent.com/113252977/231905933-9a4525ad-eb93-4623-91af-455c4c41ccfb.png)
 
->Nurulain Abdi: https://github.com/Nurul-ain2022
-
->Amos Kibet: https://github.com/AmosMaru
-
->Mercy Onduso: https://github.com/MercyMoraa
-
->Beth Mithamo: https://github.com/Mythamor
 
 ## Overview
 Airbnb is a global online housing marketplace, popular with local and foreign tourists. The platform's popularity has grown significantly over the years, with millions of hosts and guests using Airbnb for their travel needs.
@@ -35,3 +28,13 @@ We extracted the data from InsideAirbnb which has data from the Airbnb platform.
 >Content Based Filtering Recommendetion System 
 
 >Sentiment Analysis
+
+## Collaborators:
+
+>Nurulain Abdi: https://github.com/Nurul-ain2022
+
+>Amos Kibet: https://github.com/AmosMaru
+
+>Mercy Onduso: https://github.com/MercyMoraa
+
+>Beth Mithamo: https://github.com/Mythamor
